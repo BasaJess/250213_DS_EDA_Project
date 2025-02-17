@@ -1,7 +1,32 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# ds-project-template
+# First Project - Data Analysis
 
-Template for creating ds simple projects
+This project is centered around exploratory data
+analysis techniques and presentation of results to a client
+
+
+## House Sales in King County, USA
+This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015
+
+### Deliverables
+In accordance with the assignment instructions this is the list of deliverables"
+
+* This Repo, copied from [template](https://github.com/neuefische/ds-eda-project-template)
+* 3 documented Jupyter Notebooks, their contents are described in the structure section below.
+* This document, an updated and Organized "Readme"file
+* A power point presentation for non-technical clients,wich transcript, pptx and pdf copies are in this repo
+
+### Repo Structure
+This repo contains:
+* This root folder with 3 Jupyter Notebooks:
+ 1. Fetching the data
+ 2. Cleaning the data
+ 3. EDA analysis of the data and creation of presentation graphics
+* A folder containing the data
+* A folder containing the presentation files 
+
+### Presentation Documents
+* 
 
 ## Requirements
 
