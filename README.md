@@ -26,7 +26,9 @@ This repo contains:
 * A folder containing the presentation files 
 
 ### Presentation Documents
-* 
+* Housing Market.pptx : a Powerpoint file too large for GitHub. Available upon request, the size is 38.3 M
+* Housing Market.pdf: A copy of the pptx file in pdf format
+* Transcript.docx: A word cocument containing the Transcrip of the presentation
 
 ## Requirements
 
