@@ -18,7 +18,7 @@ In accordance with the assignment instructions this is the list of deliverables"
 
 ### Repo Structure
 This repo contains:
-* This root folder with 3 Jupyter Notebooks:
+* This root folder with 3 Jupyter Notebooks and the assignment description files:
  1. Fetching the data
  2. Cleaning the data
  3. EDA analysis of the data and creation of presentation graphics
