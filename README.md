@@ -1,5 +1,5 @@
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
-# First Project - Data Analysis
+# Project - EDA Exploratory Data Analysis
 
 This project is centered around exploratory data
 analysis techniques and presentation of results to a client
