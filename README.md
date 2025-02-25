@@ -37,7 +37,7 @@ This repo contains:
 
 ## Setup
 
-One of the first steps when starting any data science project is to create a virtual environment. For this project you have to create this environment from scratch yourself. However, you should be already familiar with the commands you will need to do so. The general workflow consists of... 
+One of the first steps when starting any data science project is to create a virtual environment. For this project I created this environment from scratch. The general workflow consists of... 
 
 * setting the python version locally to 3.11.3
 * creating a virtual environment using the `venv` module
