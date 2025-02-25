@@ -9,7 +9,7 @@ analysis techniques and presentation of results to a client
 This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015
 
 ### Deliverables
-In accordance with the assignment instructions this is the list of deliverables"
+This is the list of deliverables"
 
 * This Repo, copied from [template](https://github.com/neuefische/ds-eda-project-template)
 * 3 documented Jupyter Notebooks, their contents are described in the structure section below.
